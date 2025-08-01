@@ -1,0 +1,5 @@
+pytelegrambotapi
+youtube-search-python
+yt-dlp
+Pillow
+requests
